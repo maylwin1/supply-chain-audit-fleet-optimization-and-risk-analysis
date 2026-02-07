@@ -39,8 +39,10 @@ By pinpointing exactly which truck years (2015) and brands (International) are c
 [sql] 
 - `supply_chain_analysis.sql` - SQL query to discover insights
 
-[excel]
-- `supply_chain_dashboard.png` - Screenshot of the dashboard
+[excel] : Screenshot of the dashboards
+- `supply_chain_proj_dashboard_overview.png`
+- `supply_chain_proj_fleet_health_performance.png`
+- `supply_chain_proj_route_and_risk.png`
 
 [docs]
 - `executive_summary_supply_chain_performance.pdf` - Summary of findings
