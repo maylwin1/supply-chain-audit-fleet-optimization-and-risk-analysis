@@ -29,6 +29,11 @@ The analysis revealed that **$1.73M** of the **$2.64M** total liability was caus
 2. **Strategic Maintenance**: Deploy targeted inspections in high-risk zones (Southeast) to prevent costly DOT violations.
 3. **KPI Shift**: Transition driver metrics from "Miles Driven" to "OTD Accuracy" to improve the 55.7% reliability rating.
 
+# Why This Matters
+This project is important because it shifts the focus from people to process. Most companies assume high costs come from bad drivers, but the data proves that our biggest financial leak—over $1.7M is actually coming from older equipment breaking down.
+
+By pinpointing exactly which truck years (2015) and brands (International) are causing the most trouble, we can stop "guessing" where to spend money and start investing in the high-margin assets (Volvo) that actually keep the business running smoothly.
+
 # The Files You'll Find:
 
 [sql] 
@@ -37,3 +42,5 @@ The analysis revealed that **$1.73M** of the **$2.64M** total liability was caus
 - `supply_chain_dashboard.png` - Screenshot of the dashboard
 [docs]
 - `executive_summary_supply_chain_performance.pdf` - Summary of findings
+
+
