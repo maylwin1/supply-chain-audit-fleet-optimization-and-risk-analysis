@@ -36,6 +36,9 @@ By pinpointing exactly which truck years (2015) and brands (International) are c
 
 # The Files You'll Find:
 
+[docs]
+- `executive_summary_supply_chain_performance.pdf` - Summary of findings
+
 [sql] 
 - `supply_chain_analysis.sql` - SQL query to discover insights
 
@@ -44,7 +47,5 @@ By pinpointing exactly which truck years (2015) and brands (International) are c
 - `supply_chain_proj_fleet_health_performance.png`
 - `supply_chain_proj_route_and_risk.png`
 
-[docs]
-- `executive_summary_supply_chain_performance.pdf` - Summary of findings
 
 
