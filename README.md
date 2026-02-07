@@ -1,5 +1,6 @@
-Supply Chain Analytics: Fleet Optimization & Risk Audit
-📌 Project Overview
+# Supply Chain Analytics: Fleet Optimization & Risk Audit
+
+# Project Overview
 This project focuses on identifying operational inefficiencies and financial leaks within a large-scale logistics network. By analyzing three years of delivery, maintenance, and incident data (2022–2024), I uncovered a critical "Service-Profit Paradox" where high fleet activity was negatively impacting delivery reliability.
 
 The analysis revealed that $1.73M of the $2.64M total liability was caused by mechanical failures rather than driver error, pinpointing an aging fleet as the primary business risk.
